@@ -1,0 +1,7 @@
+variable,std_coefficient,p_value
+log_gdp_per_capita,0.54,0.0
+mean_years_schooling,0.325,0.0
+gii,-0.24,0.0
+log_health_expenditure,-0.053,0.514
+government_effectiveness,-0.016,0.63
+education_expenditure_pct_gdp,-0.013,0.52
